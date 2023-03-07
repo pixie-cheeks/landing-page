@@ -185,3 +185,13 @@ h1 {
 	padding: 10px 50px;
 	border-radius: 10px;
 }
+
+.footer {
+	background-color: #1F2937;
+	color: #E5E7EB;
+	font-size: 18px;
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
